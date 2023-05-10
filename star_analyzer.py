@@ -4,7 +4,7 @@ from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg, FigureCanvasAgg
 import cv2
 import matplotlib.pyplot as plt
 from os import mkdir, listdir
-import tkinter as Tk
+
 # --------------------------------- Constants -------------------------------- #
 PREVI_PATH = "tmp/previ.png"
 PARAM_PREVI_PATH = "tmp/param_previ.png"
